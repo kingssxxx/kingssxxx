@@ -19,8 +19,8 @@ Hello I'm Verniah!
 
 ### 💻 What I'm working on
 
-**My Site
-My Telegram Bot**
+**My Site**
+**My Telegram Bot**
 
 ### ⭐ Technology
 
