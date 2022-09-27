@@ -1,16 +1,6 @@
 # Hi there 👋
 
-Hello I'm Verniah!
-
-<p>
-  <a href="https://twitter.com/veerniah" target="blank">
-    <img align="center" src="https://i.imgur.com/hz1w2yY.png" alt="verniah_" height="22" width="22" />
-  </a>
-  <span></span>
-	&nbsp;
-  <img align="center" src="https://komarev.com/ghpvc/?username=verniah&label=Profile%20views&color=0e75b6&style=flat" alt="verniah" />
-
-	
+Hello I'm Kingss!	
 </p>
 
 <a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
@@ -18,10 +8,6 @@ Hello I'm Verniah!
 </a>
 
 ### 💻 What I'm working on
-
-<a>My Site</a>
-<span></span>
-<a>My Telegram Bot</a>
 
 ### ⭐ Technology
 
