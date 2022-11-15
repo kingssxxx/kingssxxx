@@ -12,9 +12,6 @@ Hello I'm Kingss!
 <p align="left">
   <h4>🖥 Languages</h4>
   <p align="left">
-    <a href="https://docs.microsoft.com/it-it/dotnet/csharp/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/C-Sharp.png" alt="C-Sharp" width="40" height="40"/>
-    </a>
     <span></span>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
