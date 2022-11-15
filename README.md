@@ -4,7 +4,7 @@ Hello I'm Kingss!
 </p>
 
 <a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
-	<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Verniah" alt="Contribution Stats" />
+	[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Kingssxd)](https://github.com/LordDashMe/github-contribution-stats/)
 </a>
 
 ### 💻 What I'm working on
@@ -45,17 +45,6 @@ Hello I'm Kingss!
     <a href="https://www.python.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-  </p>
-  <h4>📚 Frameworks and Libraries</h4>
-  <p align="left">
-  	<a href="https://reactjs.org/" target="_blank">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-	  </a>
-    <span></span>
-    <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <span></span>
   </p>
   <h4>💾 Software</h4>
   <p align="left">
