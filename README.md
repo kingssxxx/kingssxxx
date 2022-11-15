@@ -3,9 +3,7 @@
 Hello I'm Kingss!	
 </p>
 
-<a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
-	[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Kingssxd)](https://github.com/LordDashMe/github-contribution-stats/)
-</a>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ### 💻 What I'm working on
 
